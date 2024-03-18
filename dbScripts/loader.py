@@ -13,7 +13,7 @@ cur = conn.cursor()
 
 # Creating student table
 try:
-    cmds = open("DB_Init.sql", "r") # open the DDL file
+    cmds = open("DB_init.sql", "r") # open the DDL file
     cur.execute(str(cmds.read())) # execute the commands in the file
     conn.commit() # commit the changes
 # error handling
