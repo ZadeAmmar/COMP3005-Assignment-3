@@ -97,13 +97,13 @@ def main():
     #adding a student named Jack Johnson
     addStudent("Jack", "Johnson", "jack.johnson@gmail.com", "2024-03-18")
 
-    #updating John Doe's email (id 1)
+    # #updating John Doe's email (id 1)
     updateStudentEmail(1, "jdoe@gmail.com")
 
-    #deleting Jane Smith (id 2)
+    # #deleting Jane Smith (id 2)
     deleteStudent(2)
 
-    #getting all students
+    # #getting all students
     getAllStudents()
     
 # calling the main function
