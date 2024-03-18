@@ -59,4 +59,4 @@ You will see the data change within the tester, and you can also refresh your PG
 ___
 
 ### Youtube Video Link:
-N/A
+[![COMP3005 A3 Part 1](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
