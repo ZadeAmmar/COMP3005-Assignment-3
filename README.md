@@ -53,10 +53,15 @@ cd App
 python CRUD_App.py
 ```
 
-You will see the data change within the tester, and you can also refresh your PGAdmin to see the changes reflected in the database.
+Follow the given instructions on the menu to add, delete, update, or read the data from the database table.
 
 
 ___
 
-### Youtube Video Link:
-[![COMP3005 A3 Part 1](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+### Youtube Video:
+[![COMP3005 A3 Part 1](https://i9.ytimg.com/vi_webp/twMDnXjLC5U/mq2.webp?sqp=COTE468G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGYgZihmMA8=&rs=AOn4CLAUSW3Z8zPJSP8VZawqV_wp3khGSA)](https://youtu.be/twMDnXjLC5U)
+
+___
+
+### Link:
+https://youtu.be/twMDnXjLC5U
